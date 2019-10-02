@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/julietasalvado/word-list-app/issues"
   },
-  "homepage": "https://github.com/julietasalvado/word-list-app#readme"
+  "homepage": "https://github.com/julietasalvado/word-list-app#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "express": "^4.17.1"
+  }
 }
