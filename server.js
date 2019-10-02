@@ -1,8 +1,14 @@
-var express = require('express');
-var app = express();
+const express = require('express');
+const app = express();
 
-var server = app.listen(3000, () => {
-    console.log('server is running on port', server.address().port);
+const server = app.listen(7000, () => {
+    console.log(`Express running → PORT ${server.address().port}`);
 });
 
-app.use(express.static(__dirname));
+app.get('/', (req, res) => {
+    res.render('index', {
+        name: 'Juli'
+    });
+});
+
+app.set("view engine", "pug");
