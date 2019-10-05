@@ -1,0 +1,38 @@
+{
+  "word-list": [
+    {
+      "name": "animal",
+      "words": [
+        "dog",
+        "cat",
+        "fish",
+        "bird",
+        "cow",
+        "pig",
+        "mouse",
+        "horse",
+        "wing",
+        "animalC"
+      ]
+    },
+    {
+      "name": "transportation",
+      "words": [
+        "train",
+        "plane",
+        "car",
+        "truck",
+        "bicycle",
+        "bus",
+        "boat",
+        "ship",
+        "tire",
+        "gasoline",
+        "engine",
+        "train",
+        "ticket",
+        "transportationC"
+      ]
+    }
+  ]
+}
