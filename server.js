@@ -9,7 +9,6 @@ const server = app.listen(7000, () => {
 app.get('/', (req, res) => {
     res.render('index', {
         title: "Word list",
-        name: 'Juli',
         words: words["word-list"]
     });
 });
