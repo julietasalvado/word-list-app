@@ -1,8 +1,12 @@
 extends default
 
 block content
-    div.container
+    div.ui.grid.container
         each category in words
-                h2 #{category.name}
-                each word in category.words
-                    p #{word}
+            div.four.wide.column
+                div.ui.card
+                    div.content
+                        div.header #{category.name}
+                    div.content
+                        each word in category.words
+                            p #{word}
