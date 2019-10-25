@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   "dependencies": {
     "bootstrap": "^4.3.1",
     "express": "^4.17.1",
+    "nodemon": "^1.19.4",
     "pug": "^2.0.4"
   }
 }
