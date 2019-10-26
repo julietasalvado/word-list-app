@@ -1,12 +1,13 @@
 extends default
 
 block content
-    div.ui.grid.container
-        each category in words
-            div.four.wide.column
-                div.ui.card
-                    div.content
-                        div.header #{category.name}
-                    div.content
-                        each word in category.words
-                            p #{word}
+    .ui.container
+        .ui.three.column.doubling.stackable.masonry.grid
+            each category in words
+                .column
+                    .ui.fluid.card
+                        div.content
+                            div.header #{category.name}
+                        div.content
+                            each word in category.words
+                                p #{word}
