@@ -1,7 +1,7 @@
 {
   "word-list": [
     {
-      "name": "animal",
+      "name": "Animal",
       "words": [
         "dog",
         "cat",
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "transportation",
+      "name": "Transportation",
       "words": [
         "train",
         "plane",
@@ -32,6 +32,51 @@
         "train",
         "ticket",
         "transportationC"
+      ]
+    },
+    {
+      "name": "Location",
+      "words": [
+        "city",	"house",	"apartment",	"street/road",	"airport",	"train",	"station",	"bridge",	"hotel",	"restaurant",
+        "farm",	"court",	"school",	"office",	"room",	"town",	"university",	"club",	"bar",	"park",	"camp",	"store/shop",	"theater",
+        "library",	"hospital",	"church",	"market",	"country (USA, France, etc.)",	"building",	"ground",	"space (outer space)",	"bank",	"locationC"
+      ]
+    },
+    {
+      "name": "Clothing",
+      "words": [
+        "hat",	"dress",	"suit",	"skirt",	"shirt",	"T-shirt",	"pants",	"shoes",	"pocket",	"coat",	"stain",	"clothingC"
+      ]
+    },
+    {
+      "name": "Color",
+      "words": [
+        "red",	"green", "blue (light/dark)","yellow",	"brown",	"pink",	"orange",	"black",	"white",	"gray",	"colorC"
+      ]
+    },
+    {
+      "name": "Person",
+      "words": [
+        "son*",	"daughter*",	"mother",	"father",	"parent",	"baby",	"man",	"woman", "brother*",	"sister*",	"family",	"grandfather",
+        "grandmother",	"husband*",	"wife*",	"king",	"queen",	"president",
+        "neighbor",	"boy",	"girl",	"child",	"adult",	"human",	"friend",
+        "victim",	"player",	"fan",	"crowd",	"personC"
+      ]
+    },
+    {
+      "name": "Job",
+      "words": [
+        "Teacher",	"student",	"lawyer","doctor",	"patient",	"waiter",	"secretary",	"priest",	"police",	"army",	"soldier",
+        "artist",	"author",	"manager",	"reporter",	"actor",	"jobC"
+      ]
+    },
+    {
+      "name": "Society",
+      "words": [
+        "religion",	"heaven",	"hell",	"death",	"medicine",	"money",	"dollar",	"bill",	"marriage*",	"wedding*",	"team",
+        "relationship",	"race (ethnicity)",	"sex (the act)",	"sex (gender)",	"murder",	"prison",	"technology",	"energy",
+        "war",	"peace",	"attack",	"election",	"magazine",	"newspaper",	"poison",	"gun",	"sport",	"race (sport)",	"exercise",
+        "ball",	"game",	"price",	"contract",	"drug",	"sign",	"science",	"God"
       ]
     }
   ]
