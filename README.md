@@ -1,4 +1,4 @@
-# word-list-app
+# Word List App
 
 ## Startup
 Run npm start
