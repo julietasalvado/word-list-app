@@ -78,6 +78,13 @@
         "war",	"peace",	"attack",	"election",	"magazine",	"newspaper",	"poison",	"gun",	"sport",	"race (sport)",	"exercise",
         "ball",	"game",	"price",	"contract",	"drug",	"sign",	"science",	"God"
       ]
+    },
+    {
+      "name": "Art",
+      "words": [
+        "band",	"song",	"instrument	(musical)",	"music",	"movie",	"art"
+      ]
     }
+    
   ]
 }
