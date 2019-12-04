@@ -1,4 +1,4 @@
 # Word List App
 
-## Startup
+## App Startup
 Run npm start
