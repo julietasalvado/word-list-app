@@ -84,7 +84,12 @@
       "words": [
         "band",	"song",	"instrument	(musical)",	"music",	"movie",	"art"
       ]
+    },
+    {
+      "name": "Beverages",
+      "words": [
+        "coffee",	"tea","	""wine"","	"beer",	"juice",	"water",	"milk",	"beverageC"
+      ]
     }
-    
   ]
 }
