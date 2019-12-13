@@ -88,7 +88,13 @@
     {
       "name": "Beverages",
       "words": [
-        "coffee",	"tea","	""wine"","	"beer",	"juice",	"water",	"milk",	"beverageC"
+        "coffee",	"tea",	"wine",	"beer",	"juice",	"water",	"milk",	"beverageC"
+      ]
+    },
+    {
+      "name": "Food",
+      "words": [
+        "egg",	"cheese",	"bread",	"soup",	"cake",	"chicken",	"pork",	"beef",	"apple",	"banana",	"orange",	"lemon",	"corn",	"rice",	"oil",	"seed",	"knife",	"spoon",	"fork",	"plate",	"cup",	"breakfast",	"lunch",	"dinner",	"sugar",	"salt",	"bottle",	"foodC"
       ]
     }
   ]
