@@ -96,6 +96,14 @@
       "words": [
         "egg",	"cheese",	"bread",	"soup",	"cake",	"chicken",	"pork",	"beef",	"apple",	"banana",	"orange",	"lemon",	"corn",	"rice",	"oil",	"seed",	"knife",	"spoon",	"fork",	"plate",	"cup",	"breakfast",	"lunch",	"dinner",	"sugar",	"salt",	"bottle",	"foodC"
       ]
+    },
+    {
+      "name": "Home",
+      "words": [
+        "table",	"chair",	"bed",	"dream",	"window",	"door",	"bedroom",	"kitchen",	"bathroom",	"pencil",	"pen",	
+  "photograph",	"soap",	"book",	"page",	"key",	"paint",	"letter",	"note",	"wall",	"paper",	"floor",	"ceiling",	"roof",	"pool",	"lock",	
+"telephone",	"garden",	"yard", "needle",	"bag",	"box",	"gift",	"card",	"ring",	"tool"
+      ]
     }
   ]
 }
