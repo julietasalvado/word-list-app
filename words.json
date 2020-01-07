@@ -104,6 +104,13 @@
   "photograph",	"soap",	"book",	"page",	"key",	"paint",	"letter",	"note",	"wall",	"paper",	"floor",	"ceiling",	"roof",	"pool",	"lock",	
 "telephone",	"garden",	"yard", "needle",	"bag",	"box",	"gift",	"card",	"ring",	"tool"
       ]
+    },
+    {
+      "name": "Electronics",
+      "words": [
+        "clock",	"lamp",	"fan",	"cell	phone",	"network",	"computer",	"program	(computer)",	"laptop",	
+"Ascreen",	"camera",	"television",	"radio"
+      ]
     }
   ]
 }
