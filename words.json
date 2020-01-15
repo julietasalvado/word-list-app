@@ -82,7 +82,7 @@
     {
       "name": "Art",
       "words": [
-        "band",	"song",	"instrument(musical)",	"music",	"movie",	"art"
+        "band",	"song",	"instrument	(musical)",	"music",	"movie",	"art"
       ]
     },
     {
@@ -108,7 +108,7 @@
     {
       "name": "Electronics",
       "words": [
-        "clock",	"lamp",	"fan",	"cell phone",	"network",	"computer",	"program (computer)",	"laptop",
+        "clock",	"lamp",	"fan",	"cell	phone",	"network",	"computer",	"program	(computer)",	"laptop",	
 "Ascreen",	"camera",	"television",	"radio"
       ]
     }
