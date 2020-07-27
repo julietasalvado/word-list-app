@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/julietasalvado/word-list-app#readme",
   "dependencies": {
-    "bootstrap": "^4.3.1",
+    "bootstrap": "^4.5.0",
     "express": "^4.17.1",
     "nodemon": "^1.19.4",
     "pug": "^2.0.4"
